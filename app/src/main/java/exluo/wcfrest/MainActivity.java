@@ -76,6 +76,10 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
+        // TODO : pull or fetch
+        // TODO : Stash
+        // TODO : Unstash
+        // TODO : Commit & push
         final String SERVICE_URL = "http://192.168.1.64/WcfService/InventoryService.svc/inventory/567";
 
         @Override
